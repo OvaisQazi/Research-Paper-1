@@ -1,0 +1,55 @@
+# Virtual environments
+env/
+.venv/
+venv/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# PyTorch and model artifacts
+*.pt
+*.ckpt
+*.pth
+
+# Dataset and cache files
+*.npz
+*.npy
+*.h5
+*.hdf5
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python testing artifacts
+.pytest_cache/
+cover/
+coverage.xml
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS system files
+.DS_Store
+
+# Logs and runtime files
+*.log
+*.pid
+*.seed
+
+# Backup files
+*.bak
+*.tmp
+*.orig
+
