@@ -53,4 +53,4 @@ coverage.xml
 *.tmp
 *.orig
 
-data/MNIST/raw/
+data/
