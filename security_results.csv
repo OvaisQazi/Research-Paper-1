@@ -1,0 +1,25 @@
+case,attack_type,epsilon,asr,agreement,asr_pct
+"A — Fixed Seed
+(white-box)",white-box,0.05,0.030945793626396146,1.0,3.09
+"A — Fixed Seed
+(white-box)",white-box,0.1,0.08576698432216416,1.0,8.58
+"A — Fixed Seed
+(white-box)",white-box,0.2,0.30064555794651093,1.0,30.06
+"A — Fixed Seed
+(white-box)",white-box,0.3,0.6071318782662158,1.0,60.71
+"B — Varied Pool
+(enumerated)",enumerated → white-box,0.05,0.03249615581752947,1.0,3.25
+"B — Varied Pool
+(enumerated)",enumerated → white-box,0.1,0.08692977960020502,1.0,8.69
+"B — Varied Pool
+(enumerated)",enumerated → white-box,0.2,0.28487954894925677,1.0,28.49
+"B — Varied Pool
+(enumerated)",enumerated → white-box,0.3,0.609738595592004,1.0,60.97
+"C — Entropy Seed
+(transfer)",transfer (black-box),0.05,0.018792359827479975,0.9950000047683716,1.88
+"C — Entropy Seed
+(transfer)",transfer (black-box),0.1,0.056582460464161016,0.9950000047683716,5.66
+"C — Entropy Seed
+(transfer)",transfer (black-box),0.2,0.19326350379954815,0.9950000047683716,19.33
+"C — Entropy Seed
+(transfer)",transfer (black-box),0.3,0.45512425549394125,0.9950000047683716,45.51

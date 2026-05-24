@@ -1,0 +1,12 @@
+{
+  "seed": 123,
+  "seed_pool": [
+    0,
+    7,
+    42,
+    123,
+    999
+  ],
+  "accuracy": 0.9755,
+  "note": "Chosen seed is hidden from attacker \u2014 pool is public"
+}
