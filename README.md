@@ -1,7 +1,6 @@
 # Randomness Sources in Neural Network Training
-### Reproducibility, Accuracy, and Security Implications of PRNG and Hardware Entropy Seeding
+### Reproducibility, Accuracy, and Security Implications of PRNG and Hardware Entropy Seeding in Machine Learning
 
-> **Ovais Ahemad N. Qazi** · Research Skills · M.Sc. Computer & Systems Engineering · TU Ilmenau  
 > 18th Conference on Computer & Systems Engineering (Summer Semester 2026)
 
 ---
