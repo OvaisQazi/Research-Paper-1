@@ -4,7 +4,6 @@
 > **Ovais Ahemad N. Qazi** · Research Skills · M.Sc. Computer & Systems Engineering · TU Ilmenau  
 > 18th Conference on Computer & Systems Engineering (Summer Semester 2026)
 
-[📄 Read the paper (PDF)](Research_Skills_paper.pdf)
 ---
 
 ## Overview
