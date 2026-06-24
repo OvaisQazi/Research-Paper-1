@@ -177,21 +177,6 @@ Flatten → Linear(784, 256) → ReLU → Dropout(0.3)
 
 Training: Adam (η = 0.001), batch size 64, 10 epochs.
 
----
-
-## Citation
-
-```bibtex
-@article{qazi2026randomness,
-  title   = {Randomness Sources in Neural Network Training:
-             Reproducibility, Accuracy, and Security Implications
-             of PRNG and Hardware Entropy Seeding},
-  author  = {Qazi, Ovais Ahemad N.},
-  journal = {18th Conference on Computer \& Systems Engineering},
-  year    = {2026},
-  school  = {TU Ilmenau}
-}
-```
 
 ---
 
