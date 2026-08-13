@@ -1,7 +1,7 @@
 # Randomness Sources in Neural Network Training
 ### Reproducibility, Accuracy, and Security Implications of PRNG and Hardware Entropy Seeding in Machine Learning
 
-> 18th Conference on Computer & Systems Engineering (Summer Semester 2026)
+> 18th Conference on Computer & Systems Engineering (Summer Semester 2026), TU Ilmenau
 
 ---
 
@@ -14,6 +14,8 @@ This repository contains the code and experiments for the paper investigating ho
 - **Adversarial security** — does seed knowledge give an attacker a meaningful advantage?
 
 Three seeding conditions are compared across two experiments on MNIST using a shallow MLP.
+
+📄 **[Read the full paper](./Research_Skills_paper.pdf)**
 
 ---
 
